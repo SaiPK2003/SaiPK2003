@@ -1,8 +1,21 @@
-## Hi there 👋
+## Hi 👋, I'm Sai Prakash Kumar!
 
-<!--
-**SaiPK2003/SaiPK2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<h3>I study Mechatronics Engineering 🔧 at the University of Waterloo with a focus on Software Development </h3>
+</hr>
 
+<h3> ❤️ My Interests:</h3>
+<ul>
+  <li>AI/Machine Learning</li>
+  <li>Embedded Software Development</li>
+  <li>Finance</li>
+  <li>Basketball</li>
+</ul>
+
+<h3>📫 How to reach me:</h3>
+<ul>
+  <li><a href="http://www.linkedin.com/in/sai-prakash-kumar" target="_blank">www.linkedin.com/in/sai-prakash-kumar</a></li>
+</ul>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
