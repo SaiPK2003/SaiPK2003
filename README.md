@@ -1,4 +1,4 @@
-## Hi 👋, I'm Sai Prakash Kumar!
+## Hi 👋, I'm Sai!
 
 <hr>
 <h3 align="center">I study Mechatronics Engineering 🔧 at the University of Waterloo with a focus on Software Development </h3>
